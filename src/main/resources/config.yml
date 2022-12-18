@@ -1,0 +1,29 @@
+sunday-commands:
+  - "save-all"
+  - "restart"
+monday-commands:
+  - "save-all"
+  - "restart"
+tuesday-commands:
+  - "save-all"
+  - "restart"
+wednesday-commands:
+  - "save-all"
+  - "restart"
+thursday-commands:
+  - "save-all"
+  - "restart"
+friday-commands:
+  - "save-all"
+  - "restart"
+saturday-commands:
+  - "save-all"
+  - "restart"
+announcement-interval-seconds: 60
+restart-delay-seconds: 3600
+announcement-messages:
+  300: "&cServer restarting in 5 minutes"
+  120: "&cServer restarting in 2 minutes"
+  60: "&cServer restarting in 1 minute"
+  30: "&cServer restarting in 30 seconds"
+  10: "&cServer restarting in 10 seconds"

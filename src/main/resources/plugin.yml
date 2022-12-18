@@ -1,0 +1,5 @@
+name: SimpleAutoRestart
+main: com.josemarcellio.autorestart.SimpleAutoRestart
+version: 1.0
+author: JoseMarcellio
+description: Simple Auto Restart by JoseMarcellio
